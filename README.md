@@ -3,10 +3,6 @@ Verilen veri seti üzerinde ayrık veri kontrolü ve eksik verilerin tamamlanmas
 Bu veriler doğrultusunda Karar Ağacı ve Naive Bayes Sınıflandırıcılar kullanılarak sınıflandırma işlemleri yapılmıştır. 
 Kümeleme uygulamalarından K-Means, Agnes ve DBSCAN kullanılarak verilerin kümelenmesi sağlanmıştır.
 
-<h3>Verilerin HeatMap grafiği </h3>
-
-![heatmap](https://user-images.githubusercontent.com/52465630/157948090-bc2b13a0-4d9e-476b-88d3-d616cb919801.png)
-
 <h3>Kümeleme Algoritmaları</h3>
 <li>K-MEANS</li>
 
@@ -23,5 +19,11 @@ Kümeleme uygulamalarından K-Means, Agnes ve DBSCAN kullanılarak verilerin kü
 ![db](https://user-images.githubusercontent.com/52465630/157947870-952e7505-d3ba-4ef5-90b2-e21236f60881.png)
 
 
+<h2> dataScience.ipynb</h2>
+Bu dosyada öğrencilerden alınan bilgilerle bir veri seti oluşturulmuştur. Oluşturulan veri setiyle analiz ve görselleştirme çalışmaları yapılmıştır.
+Aşağıdaki görüntü veri setinden oluşturulan wordcloud görüntüsüdür. WordCloud baktığımızda konunun anlaşılabildiği kelimeler bulutudur.
+<p></p>
+
+![foto](https://user-images.githubusercontent.com/52465630/157950294-b53e9790-a7dd-4c58-9dc3-c8148a92dcbb.png)
 
   
