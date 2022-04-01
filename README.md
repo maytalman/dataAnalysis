@@ -19,7 +19,7 @@ Kümeleme uygulamalarından K-Means, Agnes ve DBSCAN kullanılarak verilerin kü
 ![db](https://user-images.githubusercontent.com/52465630/157947870-952e7505-d3ba-4ef5-90b2-e21236f60881.png)
 
 
-<h2> dataScience.ipynb</h2>
+<h2> veri-analizi.ipynb</h2>
 Bu dosyada öğrencilerden alınan bilgilerle bir veri seti oluşturulmuştur. Oluşturulan veri setiyle analiz ve görselleştirme çalışmaları yapılmıştır.
 Aşağıdaki görüntü veri setinden oluşturulan wordcloud görüntüsüdür. WordCloud baktığımızda konunun anlaşılabildiği kelimeler bulutudur.
 <p></p>
